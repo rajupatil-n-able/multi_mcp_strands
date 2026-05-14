@@ -78,5 +78,7 @@ What time is it in Asia/Kolkata?
 What is the weather in Pune?
 Calculate salary breakup for 18 LPA
 Cau you please get details of jira ticket ADLBUGS-673
+Create a Confluence page in space " RajuConfluence " with title "MDR SLA Enforcement Lambda – Code Walkthrough" and body "<p>Initial draft.</p>". Return page id and URL.
+Get a Confluence page in space " RajuConfluence " with title "MDR SLA Enforcement Lambda – Code Walkthrough". Return page id and URL.
 ```
 
